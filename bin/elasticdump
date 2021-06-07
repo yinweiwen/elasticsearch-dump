@@ -125,7 +125,10 @@ const defaults = {
   csvLTrim: false,
   csvDiscardUnmappedColumns: false,
   csvQuoteChar: '"',
-  csvEscapeChar: '"'
+  csvEscapeChar: '"',
+
+  mongoDb: 'test',
+  mongoId: true
 }
 const options = {}
 

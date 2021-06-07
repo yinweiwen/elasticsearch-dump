@@ -41,6 +41,7 @@
     "lodash": "^4.17.21",
     "lossless-json": "^1.0.4",
     "minimist": "^1.2.5",
+    "mongodb": "^3.6.9",
     "p-queue": "^6.6.2",
     "request": "2.88.2",
     "requestretry": "^4.1.2",
