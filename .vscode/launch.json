@@ -15,6 +15,7 @@
             "args": [
                 "--input=http://10.8.30.155:9200/anxinyun_themes",
                 "--output=mongodb://localhost:27017",
+                "--mongoDb=test2",
                 // "--output=./res.csv",
                 "--limit=1000",
                 "--type=data"
